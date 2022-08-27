@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">el-Attendance</string>
+    <string name="splash_Desc">Welcome! the world of Machine Learning!</string>
+    <string name="sign_up">SignUp to start with ELDAAS Attendance App</string>
+    <string name="splash_cr">Copyright Ⓒ ELDAAS Pvt. Ltd. 2022. All rights reserved</string>
+    <string name="new_employee">Register new Employee to start with ELDAAS Attendance App </string>
+</resources>

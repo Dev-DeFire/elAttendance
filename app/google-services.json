@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552777072136",
+    "project_id": "attendanceeldaas",
+    "storage_bucket": "attendanceeldaas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552777072136:android:20905e7e50c13da8aa9bbd",
+        "android_client_info": {
+          "package_name": "com.eldaas.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552777072136-dpnud16usasnrgbljootk0mmbv92d1ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMjJG3LEhoijNkdZRO5zlMVb4pWXvrf3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552777072136-dpnud16usasnrgbljootk0mmbv92d1ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
